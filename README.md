@@ -16,14 +16,14 @@ Self-use only!
 #### 此项目使用到以下项目(按字母排序)  
 References (in alphabetical order)  
 
-[2dust/v2rayN](https://github.com/2dust/v2rayN) vmess分享链接及订阅格式  
-[haf/DotNetZip.Semverd](https://github.com/haf/DotNetZip.Semverd) .net 4.0解压zip文件  
-[jacobslusser/ScintillaNET](https://github.com/jacobslusser/ScintillaNET) 编辑器  
-[JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) 处理json  
-[micjahn/ZXing.Net](https://github.com/micjahn/ZXing.Net/) 处理二维码  
-[NLua/NLua](https://github.com/NLua/NLua) Luna插件中的lua解释器  
-[PoseidonM4A4/v2rayP](https://github.com/PoseidonM4A4/v2rayP) Launcher等多处代码参(抄)考(习)来源  
-[ravibpatel/AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET) 自动更新功能  
-[shadowsocksr-backup/shadowsocksr-csharp](https://github.com/shadowsocksr-backup/shadowsocksr-csharp) 屏幕扫码实现代码  
+[2dust/v2rayN](https://github.com/xrw002/v2rayN) vmess分享链接及订阅格式  
+[haf/DotNetZip.Semverd](https://github.com/xrw002/DotNetZip.Semverd) .net 4.0解压zip文件  
+[jacobslusser/ScintillaNET](https://github.com/xrw002/ScintillaNET) 编辑器  
+[JamesNK/Newtonsoft.Json](https://github.com/xrw002/Newtonsoft.Json) 处理json  
+[micjahn/ZXing.Net](https://github.com/xrw002/ZXing.Net/) 处理二维码  
+[NLua/NLua](https://github.com/xrw002/NLua) Luna插件中的lua解释器  
+[PoseidonM4A4/v2rayP](https://github.com/xrw002/v2rayP) Launcher等多处代码参(抄)考(习)来源  
+[ravibpatel/AutoUpdater.NET](https://github.com/xrw002/AutoUpdater.NET) 自动更新功能  
+[shadowsocksr-backup/shadowsocksr-csharp](https://github.com/xrw002/shadowsocksr-csharp) 屏幕扫码实现代码  
 [txthinking/pac](https://github.com/xrw002/pac) ProxySetter插件中的默认PAC  
-[v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) v2ray-core服务端  
+[v2ray/v2ray-core](https://github.com/xrw002/v2ray-core) v2ray-core服务端  
